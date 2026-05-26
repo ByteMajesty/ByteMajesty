@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=BYTEMAJESTY&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Matheus&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Byte</h1>
+<h1 align="center">👋 Olá, eu sou o Matheus</h1>
 
 <p align="center">
   <b>Estudante de programação</b> • <b>Linux</b> • <b>Cibersegurança</b>
@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-- Nome: Byte  
+- Nome: Matheus
 - Objetivo: Evoluir como desenvolvedor  
 - Sistema: Linux  
 - Interesse: Segurança e sistemas  
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMajesty&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus0code&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🐍 Contribuições (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByteMajesty/ByteMajesty/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/matheus0code/matheus0code/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ## 📫 Contato
 
-- GitHub: ByteMajesty
+- GitHub: matheus0code
 
 ---
 
