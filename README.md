@@ -59,7 +59,7 @@
 
 ## 📌 Projetos
 
-- Vanta Browser — navegador open-source leve, rápido e personalizável
+- VantaGuard
 
 ---
 
