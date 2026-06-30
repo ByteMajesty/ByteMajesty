@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Matheus&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Vitor&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Matheus</h1>
+<h1 align="center">👋 Olá, eu sou o Vitor</h1>
 
 <p align="center">
   <b>Estudante de programação</b> • <b>Linux</b> • <b>Cibersegurança</b>
@@ -59,13 +59,13 @@
 
 ## 📌 Projetos
 
-- VantaGuard
+- Calculadora em Next.js
 
 ---
 
 ## 📫 Contato
 
-- GitHub: matheus0code
+- GitHub: ogvirtor
 
 ---
 
