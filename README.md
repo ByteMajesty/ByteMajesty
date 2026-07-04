@@ -60,6 +60,7 @@
 ## 📌 Projetos
 
 - Calculadora em Next.js
+- external-raid-bot
 
 ---
 
