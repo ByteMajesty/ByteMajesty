@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-- Nome: Matheus
+- Nome: Vitor
 - Objetivo: Evoluir como desenvolvedor  
 - Sistema: Linux  
 - Interesse: Segurança e sistemas  
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus0code&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogvirtor&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🐍 Contribuições (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheus0code/matheus0code/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ogvirtor/ogvirtor/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -66,6 +66,7 @@
 ## 📫 Contato
 
 - GitHub: ogvirtor
+- Discord: ogvirtuu
 
 ---
 
