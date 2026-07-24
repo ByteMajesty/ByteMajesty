@@ -67,7 +67,6 @@
 ## 📫 Contato
 
 - GitHub: ogvirtor
-- Discord: ogvirtuu
 
 ---
 
