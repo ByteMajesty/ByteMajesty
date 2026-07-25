@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
 </p>
 
-Desenvolvedor focado em backend, automações, sistemas e criação de soluções utilizando tecnologia.
+Desenvolvedor focado em backend, automações, bots e criação de sistemas.
 
 ---
 
@@ -16,53 +16,40 @@ Desenvolvedor focado em backend, automações, sistemas e criação de soluçõe
 
 ---
 
-## Desenvolvimento Backend
+## Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
 </p>
 
-Áreas de interesse:
+Experiência e estudos:
 
 - Desenvolvimento de APIs
+- Criação de bots para Discord
+- Automação de tarefas
 - Sistemas backend
-- Automação de processos
-- Bots e integrações
-- Sistemas em tempo real
-- Integração com serviços externos
+- Integração com APIs externas
+- Banco de dados
 - Desenvolvimento de ferramentas próprias
-- Aplicações utilizando inteligência artificial
+- Sistemas utilizando inteligência artificial
 
 ---
 
-## Web & Aplicações
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,html,css" />
-</p>
-
-Experiência com:
-
-- Aplicações web modernas
-- Integração entre frontend e backend
-- Interfaces responsivas
-- Dashboards
-- Estruturação de projetos
-
----
-
-## Ambiente & Ferramentas
+## Infraestrutura & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,cloudflare" />
 </p>
 
-Utilizo:
+Conhecimentos:
 
-- Linux como ambiente de desenvolvimento
-- Docker para gerenciamento de aplicações
-- Git para versionamento
-- Servidores e hospedagem de projetos
+- Linux
+- Servidores VPS
+- Hospedagem de aplicações
+- Docker
+- Deploy de projetos
+- Configuração de ambientes
+- Controle de versão com Git
 
 ---
 
@@ -70,18 +57,28 @@ Utilizo:
 
 Projetos envolvendo:
 
-- APIs e sistemas backend
-- Bots para comunidades
-- Automações
+- Bots e automações
+- APIs e serviços backend
 - Ferramentas próprias
-- Experimentos com infraestrutura
+- Sistemas para comunidades
+- Infraestrutura e servidores
 
 ---
 
 ## Contato
 
 <p align="left">
-  <a href="https://github.com/ogvirtor">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
+
+<a href="mailto:ogvirtuu@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+
+<a href="https://github.com/ogvirtor">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+
+<a href="https://joaovictordev.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" />
+</a>
+
 </p>
