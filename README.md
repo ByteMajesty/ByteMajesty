@@ -1,12 +1,14 @@
 # João Victor
 
-<img src="https://komarev.com/ghpvc/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
+</p>
 
-Backend Developer focado em APIs, automações, sistemas e infraestrutura.
+Desenvolvedor focado em backend, automações, sistemas e criação de soluções utilizando tecnologia.
 
 ---
 
-## Languages
+## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,nodejs,python" />
@@ -14,63 +16,69 @@ Backend Developer focado em APIs, automações, sistemas e infraestrutura.
 
 ---
 
-## Backend & Systems
+## Desenvolvimento Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" />
 </p>
 
-### Experience
+Áreas de interesse:
 
-- REST APIs
-- Backend services
-- Real-time systems
-- WebSockets
-- Discord bots
-- Automation tools
-- External API integrations
-- Database integration
-- Authentication systems
-- AI API integrations
-- Scalable applications
+- Desenvolvimento de APIs
+- Sistemas backend
+- Automação de processos
+- Bots e integrações
+- Sistemas em tempo real
+- Integração com serviços externos
+- Desenvolvimento de ferramentas próprias
+- Aplicações utilizando inteligência artificial
 
 ---
 
-## Infrastructure & Tools
+## Web & Aplicações
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,html,css" />
+</p>
+
+Experiência com:
+
+- Aplicações web modernas
+- Integração entre frontend e backend
+- Interfaces responsivas
+- Dashboards
+- Estruturação de projetos
+
+---
+
+## Ambiente & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,cloudflare" />
 </p>
 
-### Knowledge
+Utilizo:
 
-- Linux environments
-- VPS servers
-- Application deployment
-- Docker containers
-- Environment configuration
-- CI/CD concepts
-- Version control
+- Linux como ambiente de desenvolvimento
+- Docker para gerenciamento de aplicações
+- Git para versionamento
+- Servidores e hospedagem de projetos
 
 ---
 
-## Projects
+## Projetos
 
-### Backend
+Projetos envolvendo:
 
-Development of APIs, services and systems using Go, Node.js and Python.
-
-### Automation
-
-Creation of bots, scripts and automated solutions.
-
-### Infrastructure
-
-Projects involving servers, hosting and application management.
+- APIs e sistemas backend
+- Bots para comunidades
+- Automações
+- Ferramentas próprias
+- Experimentos com infraestrutura
 
 ---
 
-## Contact
+## Contato
 
 <p align="left">
   <a href="https://github.com/ogvirtor">
