@@ -1,75 +1,83 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff88&height=200&section=header&text=Vitor&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
+# Vitor
+
+<p align="left">
+  <img src="https://komarev.com/ghpvcs/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Vitor</h1>
-
-<p align="center">
-  <b>Estudante de programação</b> • <b>Linux</b> • <b>Cibersegurança</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aprendendo+Programação;Explorando+Linux;Criando+Projetos;Evoluindo+Todo+Dia&center=true&width=500&height=45">
-</p>
+Backend Developer focado em APIs, automações, sistemas e infraestrutura.
 
 ---
 
-## 🧠 Sobre mim
+## Languages
 
-- Nome: Vitor
-- Objetivo: Evoluir como desenvolvedor  
-- Sistema: Linux  
-- Interesse: Segurança e sistemas  
-- Foco: Backend e automação  
-
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Backend & Systems
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogvirtor&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" />
 </p>
 
+### Experience
+
+- REST APIs
+- Backend services
+- Real-time systems
+- WebSockets
+- Discord bots
+- Automation tools
+- External API integrations
+- Database integration
+- Authentication systems
+- AI API integrations
+- Scalable applications
+
 ---
 
-## 🐍 Contribuições (Snake)
+## Infrastructure & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ogvirtor/ogvirtor/output/github-contribution-grid-snake.svg"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,cloudflare" />
 </p>
 
----
+### Knowledge
 
-## 💡 Frase do dia
-
-> “Código é pensamento transformado em máquina.”
-
----
-
-## 📌 Projetos
-
-- Calculadora em Next.js
-- external-raid-bot
+- Linux environments
+- VPS servers
+- Application deployment
+- Docker containers
+- Environment configuration
+- CI/CD concepts
+- Version control
 
 ---
 
-## 📫 Contato
+## Projects
 
-- GitHub: ogvirtor
+### Backend
+
+Development of APIs, services and systems using Go, Node.js and Python.
+
+### Automation
+
+Creation of bots, scripts and automated solutions.
+
+### Infrastructure
+
+Projects involving servers, hosting and application management.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0f0f0f&height=120&section=footer"/>
+## Contact
+
+<p align="left">
+  <a href="https://github.com/ogvirtor">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
 </p>
+
+GitHub: github.com/ogvirtor
