@@ -85,5 +85,3 @@ Projetos envolvendo:
     <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
 </p>
-
-GitHub: github.com/ogvirtor
