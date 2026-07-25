@@ -1,8 +1,6 @@
-# Vitor
+# João Victor
 
-<p align="left">
-  <img src="https://komarev.com/ghpvcs/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ogvirtor&label=Profile%20Views&color=00ff88&style=flat" />
 
 Backend Developer focado em APIs, automações, sistemas e infraestrutura.
 
